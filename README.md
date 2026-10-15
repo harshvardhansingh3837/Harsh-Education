@@ -133,7 +133,7 @@ Developed a Java-based Hotel Management System using Object-Oriented Programming
 
 💼 **LinkedIn:** [Harsh Vardhan Singh](https://www.linkedin.com/in/harsh-vardhan-singh79)
 
-🌐 **Portfolio:** Coming Soon
+🌐 **Portfolio:**
 
 ---
 
